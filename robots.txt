@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Kanishk-Dendukuri.github.io/sitemap.xml
